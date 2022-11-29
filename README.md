@@ -15,23 +15,23 @@
    a. Teacher
    b. Student
    
-2. Teacher View:
-   a. Create new courses
-   b. Create and update syllabus
-   c. Create assignment
-   d. Create announcement
-   e. Update grades
-   f. View (all information from only assigned courses to him/her)
+2. **Teacher View:**
+   - Create new courses
+   - Create and update syllabus
+   - Create assignment
+   - Create announcement
+   - Update grades
+   - **View:** (all information from only assigned courses to him/her)
       - All courses + (Section, Time, Classroom)
       - Students’ information
       - Syllabus
       -	Assignments
       - Grades 
       
-3. Student View: 
-   a. Add new courses
-   b. Remove a course
-   c. View: (all information from the courses only he/she has taken)
+3. **Student View:** 
+   - Add new courses
+   - Remove a course
+   - **View:** (all information from the courses only he/she has taken)
       - All courses + (Section, Classroom, Time, Faculty) 
       -	Syllabus
       - Assignments
@@ -45,7 +45,7 @@
 ## Tasks breakdown
 
 #### For All
-- [X] Creating Features list  &nbsp;  <sup> (29/11/2022)</sup>
+- [X] Creating Features list  &nbsp;  <sup>*(Completed on 9/11/2022)*</sup>
 - [ ]  Extensive research and study on Java GUI
 
 ##### Mahubur Rahman Khan
