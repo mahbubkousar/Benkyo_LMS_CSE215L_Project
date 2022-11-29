@@ -6,14 +6,14 @@
 
 ## Team Members 
 - Mahbubur Rahman Khan
-- Mahdi Muhamad Sifat
+- Mahdi Muhammad Sifat
 - Rayeed Aabir Ahsan
 
 
 ## Features:
 1. **Sign-in** and **new registration** page for
-   a. Teacher
-   b. Student
+   - Teacher
+   - Student
    
 2. **Teacher View:**
    - Create new courses
