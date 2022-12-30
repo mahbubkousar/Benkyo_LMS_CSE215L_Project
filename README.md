@@ -8,4 +8,4 @@
 - Mahbubur Rahman Khan
 - Mahdi Muhammad Sifat
 - Rayeed Aabir Ahsan
-- Shuvroto Sorkar
+- Shuvroto Sarkar
